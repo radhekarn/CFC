@@ -162,7 +162,7 @@ def display_home_page():
     if choice == "Home":
 
         st.markdown(
-    '<h1 style="font-weight:650; font-size:90px; margin-top:-50px;">'
+    '<h1 style="font-weight:650; font-size:87px; margin-top:-50px;">'
     '<span style="color:#509B4C;">ENVIRO</span> '
     '<span style="color:#509B4C;">TRACKER</span>'
     '</h1>',
